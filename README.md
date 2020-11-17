@@ -1,4 +1,4 @@
-# DN_week7
+# Dialogue and Narrative, week 7
 
 ### Running the notebooks
 Create a virtual environment: `python -m venv env`<br />
